@@ -1,2 +1,30 @@
-# aoc2024
-Advent of Code 2024
+# Advent of Code 2024
+
+[Advent of Code] - an advent calendar of programming puzzles.
+
+I'll attempt to solve them with Kotlin.
+
+[Advent of Code]:https://adventofcode.com/2024
+
+---
+
+### Day 1 
+
+tbd
+
+---
+
+Environment
+
+- Kotlin 2.0.0
+- Intellij 2024.2.1
+
+---
+
+```
+language: kotlin
+repo: aoc2024
+status: active
+updated: 2024-11-30
+```
+
