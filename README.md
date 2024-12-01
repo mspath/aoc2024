@@ -8,9 +8,9 @@ I'll attempt to solve them with Kotlin.
 
 ---
 
-### Day 1 
+### Day 1 Historian Hysteria
 
-tbd
+Help Historians find the Chief Historian by analyzing a list of locations.
 
 ---
 
@@ -25,6 +25,5 @@ Environment
 language: kotlin
 repo: aoc2024
 status: active
-updated: 2024-11-30
+updated: 2024-12-01
 ```
-
