@@ -12,6 +12,10 @@ I'll attempt to solve them with Kotlin.
 
 Help Historians find the Chief Historian by analyzing a list of locations.
 
+### Day 2 Red-Nosed Reports
+
+Help the engineers filter safe reports.
+
 ---
 
 Environment
@@ -25,5 +29,5 @@ Environment
 language: kotlin
 repo: aoc2024
 status: active
-updated: 2024-12-01
+updated: 2024-12-02
 ```
