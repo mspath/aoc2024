@@ -20,8 +20,8 @@ Help the engineers filter safe reports.
 
 Environment
 
-- Kotlin 2.0.0
-- Intellij 2024.2.1
+- Kotlin 2.1.20
+- Intellij 2025.2.2
 
 ---
 
@@ -29,5 +29,5 @@ Environment
 language: kotlin
 repo: aoc2024
 status: active
-updated: 2024-12-02
+updated: 2025-09-28
 ```
